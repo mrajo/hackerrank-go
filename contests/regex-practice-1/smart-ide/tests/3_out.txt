@@ -1,0 +1,10 @@
+// stupid comments
+/* i do crap */
+// i'm someone's stupid comments
+// more idiotic comments /* poop */
+/* testing nested comments
+i dont know why anyone would do this
+// blah blah blah
+/* poo in your face
+lololol
+*/

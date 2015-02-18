@@ -1,0 +1,15 @@
+// stupid comments
+
+int main() {
+	/* i do crap */// i'm someone's stupid comments
+	int x = 1; // more idiotic comments /* poop */
+	return x;
+
+	/* testing nested comments
+	   i dont know why anyone would do this
+	   // blah blah blah
+	   /* poo in your face
+	      lololol
+	    */
+	 */
+}
