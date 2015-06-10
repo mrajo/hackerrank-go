@@ -1,10 +1,10 @@
 # hackerrank-go
 
-> Learning go using Hacker Rank
+> Learning go using [HackerRank](http://hackerrank.com)
 
 ## About
 
-This is a project of Hacker Rank solutions I used to teach myself Go.
+This is a project of HackerRank solutions I used to teach myself Go.
 
 ## License
 
